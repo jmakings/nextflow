@@ -21,6 +21,8 @@ conda activate nextflow
 
 | Pipeline | Description | Status |
 |----------|-------------|--------|
-| FastQC → MultiQC | Read quality control and summary reporting | 🚧 In progress |
+| FastQC → MultiQC | Read quality control and summary reporting | fastqc_multiqc.nf |  ✅ Completed |
+
+| MiXCR Pipeline Update | Read quality control and summary reporting | 🚧 In progress |
 
 ## Repository Structure
